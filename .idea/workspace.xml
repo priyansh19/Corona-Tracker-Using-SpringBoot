@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="828e8c58-711a-4807-9169-464c3c196708" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coronavirus-tracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coronavirus-tracker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker/services/CoronaVirusDataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker/services/CoronaVirusDataService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YQ89qLkQ1gjSMKt55JTx3Vg8gN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/io/javabrains/coronavirustracker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CoronavirusTrackerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.coronavirustracker.CoronavirusTrackerApplication" />
+      <module name="coronavirus-tracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.javabrains.coronavirustracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CoronavirusTrackerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="828e8c58-711a-4807-9169-464c3c196708" name="Default Changelist" comment="" />
+      <created>1582863309026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582863309026</updated>
+      <workItem from="1587985044574" duration="2742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="130" width="1024" height="846" key="#Project_Structure" timestamp="1587985270122">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="443" y="130" width="1024" height="846" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1587985270122" />
+    <state x="709" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1582866882967">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="709" y="236" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1045@0.23.1792.1045" timestamp="1582866882967" />
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom" timestamp="1587987317500">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1587987317500" />
+    <state width="1354" height="260" key="GridCell.Tab.0.center" timestamp="1587987317499">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1354" height="260" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1587987317499" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left" timestamp="1587987317499">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759181" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1587987317499" />
+    <state width="1354" height="260" key="GridCell.Tab.0.right" timestamp="1587987317500">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1582877759182" />
+    <state width="1354" height="260" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1587987317500" />
+    <state x="425" y="189" width="1022" height="731" key="SettingsEditor" timestamp="1587985716123">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="397" y="184" key="SettingsEditor/0.23.1792.1045@0.23.1792.1045" timestamp="1582864209243" />
+    <state x="425" y="189" width="1022" height="731" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1587985716123" />
+    <state x="679" y="330" key="chooseDestDirectoryDialog" timestamp="1582865330854">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="679" y="330" key="chooseDestDirectoryDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1582865330854" />
+    <state x="573" y="377" key="com.intellij.ide.util.TipDialog" timestamp="1582863320118">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="573" y="377" key="com.intellij.ide.util.TipDialog/0.23.1792.1045@0.23.1792.1045" timestamp="1582863320118" />
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup" timestamp="1582864324011">
+      <screen x="0" y="23" width="1792" height="1045" />
+    </state>
+    <state x="561" y="266" width="670" height="676" key="search.everywhere.popup/0.23.1792.1045@0.23.1792.1045" timestamp="1582864324011" />
+  </component>
+</project>
